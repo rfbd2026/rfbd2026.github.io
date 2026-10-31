@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Image from "next/image";
-import { ChevronLeft, ChevronRight, Download, Eye, Maximize2, X } from "lucide-react";
+import { ChevronLeft, ChevronRight, Download, Maximize2, X } from "lucide-react";
 import type { Locale } from "@/lib/content/projects";
 
 const pages = [
