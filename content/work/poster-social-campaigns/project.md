@@ -1,24 +1,28 @@
 ---
 slug: poster-social-campaigns
-rank: 6
+rank: 10
 featured: true
-category: Poster
-tags: [social]
+category: Digital
+tags: [digital, web, banner]
 cover: images/cover.webp
-source: Supplied CV, page 11
+gallery:
+  - "images/gallery-1.webp"
+  - "images/gallery-2.webp"
+  - "images/gallery-3.webp"
+source: Extracted from 23.ai
 title:
-  en: Posters and campaign frames
-  fa: پوستر و قاب‌های کمپین
+  en: "Website Banners & Digital Marketing Campaigns"
+  fa: "طراحی بنر و کمپین‌های وب‌سایت"
 summary:
-  en: Posters, social posts, and promotional graphics on one board.
-  fa: پوستر، پست شبکه اجتماعی و گرافیک تبلیغاتی روی یک صفحه.
+  en: "High-converting hero banners and promotional web graphics."
+  fa: "طراحی بنرهای اصلی وب‌سایت (Hero Banners) با ترکیب‌بندی تایپوگرافی و عکس."
 context:
-  en: Several campaign-style pieces across different subjects and visual tones.
-  fa: چند کار کمپینی با موضوع‌ها و حال‌وهوای بصری مختلف.
+  en: "Digital marketing assets optimized for high conversion rates on e-commerce landing pages."
+  fa: "کمپین‌های دیجیتال برای لندینگ‌پیج‌ها و افزایش نرخ تبدیل مخاطبان."
 shown:
-  en: Large imagery, bold headlines, and compact promotional layouts. No campaign performance data is claimed.
-  fa: تصویرهای بزرگ، تیترهای پررنگ و چیدمان‌های تبلیغاتی فشرده. آمار عملکرد کمپینی ادعا نمی‌شود.
+  en: "Wide hero banners, desktop slider assets, and coordinated online promotional sets."
+  fa: "بنرهای عریض، طراحی اسلایدر و متریال‌های تبلیغات آنلاین."
 categoryLabel:
-  en: Poster / Social
-  fa: پوستر / شبکه اجتماعی
+  en: "Digital"
+  fa: "طراحی بنر و کمپین‌های وب‌سایت"
 ---

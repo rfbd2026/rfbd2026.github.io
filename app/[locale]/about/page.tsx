@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { PageIntro } from "@/components/ui";
@@ -34,27 +35,41 @@ export default async function AboutPage({ params }: { params: { locale: Locale }
   return (
     <div className="site-shell page-space">
       <PageIntro eyebrow={t("eyebrow")} title={t("title")}><p>{t("lead")}</p></PageIntro>
-      <section className="about-story section-space">
-        <div className="about-story__index">
-          <span className="about-years">{fa ? "۸+" : "8+"}</span>
-          <span>{fa ? "سال تجربه حرفه‌ای در گرافیک و UI/UX" : "years of professional design & UI/UX experience"}</span>
-          <span className="about-calendar">{fa ? "رزومه رسمی ۱۴۰۵ / 2026" : "Official 2026 Portfolio"}</span>
+      
+      <section className="about-story section-space grid grid-cols-1 md:grid-cols-3 gap-8 items-center border-b border-rule pb-12">
+        <div className="relative aspect-[3/4] max-w-[280px] w-full mx-auto rounded-xl overflow-hidden border border-rule shadow-md bg-paper">
+          <Image
+            src="/images/aref-bahadori.webp"
+            alt={fa ? "عارف بهادری" : "Aref Bahadori"}
+            fill
+            priority
+            sizes="280px"
+            className="object-cover"
+          />
         </div>
-        <div className="about-story__body">
-          <p className="eyebrow">{fa ? "رویکرد طراحی" : "Design Approach"}</p>
-          <p className="mt-4 font-display text-2xl leading-relaxed tracking-editorial sm:text-4xl">
-            {fa 
-              ? "متخصص در طراحی هویت بصری، بسته‌بندی محصولات و تبلیغات دیجیتال. متمرکز بر خلق طرح‌های کاربردی برای جذب مخاطب و تقویت برند با بهره‌گیری از هوش مصنوعی."
-              : "Specialized in visual identity, product packaging, and digital advertising. Focused on creating functional designs that elevate brand identity and customer experience."
-            }
-          </p>
+
+        <div className="md:col-span-2 space-y-6">
+          <div className="about-story__index">
+            <span className="about-years">{fa ? "۸+" : "8+"}</span>
+            <span>{fa ? "سال تجربه حرفه‌ای در گرافیک و UI/UX" : "years of professional design & UI/UX experience"}</span>
+            <span className="about-calendar">{fa ? "رزومه رسمی ۱۴۰۵ / 2026" : "Official 2026 Portfolio"}</span>
+          </div>
+          <div>
+            <p className="eyebrow">{fa ? "رویکرد طراحی و تخصص" : "Design Philosophy & Expertise"}</p>
+            <p className="mt-4 font-display text-2xl leading-relaxed tracking-editorial sm:text-3xl text-ink">
+              {fa 
+                ? "متخصص در طراحی هویت بصری، بسته‌بندی محصولات و تبلیغات دیجیتال. متمرکز بر خلق طرح‌های کاربردی برای جذب مخاطب و تقویت برند با بهره‌گیری از ابزارهای هوش مصنوعی (Promptography)."
+                : "Specialized in visual identity, product packaging, and digital advertising. Focused on creating functional designs that elevate brand identity and customer experience."
+              }
+            </p>
+          </div>
         </div>
       </section>
 
-      <section className="timeline-section border-t border-rule py-12 md:py-16" aria-labelledby="timeline-title">
+      <section className="timeline-section py-12 md:py-16" aria-labelledby="timeline-title">
         <div className="section-heading">
           <div>
-            <p className="eyebrow">{fa ? "مسیر حرفه‌ای و شغلی" : "Work history"}</p>
+            <p className="eyebrow">{fa ? "مسیر حرفه‌ای و سوابق کاری" : "Work history"}</p>
             <h2 id="timeline-title" className="mt-4 font-display text-3xl tracking-editorial sm:text-5xl">{t("timeline")}</h2>
           </div>
           <p className="text-xs leading-6 text-muted">{fa ? "برگرفته از پورتفولیو رسمی" : "As certified in official portfolio"}</p>

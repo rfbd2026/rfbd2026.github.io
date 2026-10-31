@@ -1,24 +1,25 @@
 ---
 slug: identity-marks
 rank: 1
-featured: false
+featured: true
 category: Branding
-tags: [typography]
+tags: [branding, identity, logo]
 cover: images/cover.webp
-source: Supplied CV, page 3
+gallery: []
+source: Extracted from 23.ai
 title:
-  en: Identity marks in practice
-  fa: نشانه‌های هویت در عمل
+  en: "Visual Identity & Selected Logo Marks"
+  fa: "هویت بصری و گزیده لوگوها"
 summary:
-  en: A board of identity marks in Persian and Latin lettering, symbols, and monograms.
-  fa: "یک صفحه از نشانه‌های هویت: حروف‌نگاری فارسی و لاتین، نمادها و مونوگرام‌ها."
+  en: "Minimal, memorable visual identity systems and brand signatures."
+  fa: "طراحی نشانه‌ها و هویت بصری مینیمال، ماندگار و متناسب با ارزش‌های برند."
 context:
-  en: A range of wordmarks and symbols on one board, rather than a single client case.
-  fa: مجموعه‌ای از وردمارک‌ها و نمادها روی یک صفحه، نه یک پروژه مشتری مشخص.
+  en: "Translating core brand strategy into lasting and legible visual marks across any medium."
+  fa: "ترجمه استراتژی و ارزش‌های برند به فرم‌های بصری مانا و کاربردی در انواع رسانه‌ها."
 shown:
-  en: Persian and Latin lettering, compact emblems, and monogram-style marks in several visual directions.
-  fa: حروف‌نگاری فارسی و لاتین، آرم‌های فشرده و مونوگرام‌هایی با رویکردهای بصری مختلف.
+  en: "Commercial logo marks, emblems, and comprehensive brand identity directions."
+  fa: "نمونه لوگوهای تجاری، مونوگرام‌ها و سیستم هویت بصری برندها."
 categoryLabel:
-  en: Branding
-  fa: هویت بصری
+  en: "Branding"
+  fa: "هویت بصری و گزیده لوگوها"
 ---

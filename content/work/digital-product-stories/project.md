@@ -1,23 +1,28 @@
 ---
 slug: digital-product-stories
-rank: 8
-featured: false
+rank: 11
+featured: true
 category: Digital
+tags: [digital, advertising, promo]
 cover: images/cover.webp
-source: Supplied CV, page 14
+gallery:
+  - "images/gallery-1.webp"
+  - "images/gallery-2.webp"
+  - "images/gallery-3.webp"
+source: Extracted from 23.ai
 title:
-  en: Product stories on screen
-  fa: روایت محصول روی صفحه‌نمایش
+  en: "Digital Promotional & Advertising Graphics"
+  fa: "بنرهای پروموشن و تبلیغات دیجیتال"
 summary:
-  en: Screen mockups showing digital design work for different products.
-  fa: موکاپ‌های صفحه‌نمایش از کارهای طراحی دیجیتال برای محصولات مختلف.
+  en: "Targeted social media ad graphics and seasonal sales campaigns."
+  fa: "بنرهای هدفمند برای شبکه‌های اجتماعی و کمپین‌های فصلی فروش."
 context:
-  en: Several website and digital-content screens shown inside laptop mockups.
-  fa: چند صفحه وب و محتوای دیجیتال، داخل موکاپ لپ‌تاپ.
+  en: "Visual asset creation formatted specifically for Instagram feeds and PPC advertising."
+  fa: "تولید محتوای بصری متناسب با پلتفرم‌های اینستاگرام و تبلیغات کلیکی."
 shown:
-  en: Putting every screen in the same device frame makes the different layouts easy to compare. No analytics or client results are claimed.
-  fa: قرار گرفتن همه صفحه‌ها در یک قاب دستگاه، مقایسه چیدمان‌های مختلف را آسان می‌کند. هیچ آمار یا نتیجه‌ای از مشتری ادعا نمی‌شود.
+  en: "Square and vertical display banners with high contrast and immediate call-to-action."
+  fa: "بنرهای مربعی و عمودی با کنتراست رنگی جذاب و پیام‌رسانی سریع."
 categoryLabel:
-  en: Digital
-  fa: دیجیتال
+  en: "Digital"
+  fa: "بنرهای پروموشن و تبلیغات دیجیتال"
 ---

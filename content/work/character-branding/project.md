@@ -1,23 +1,27 @@
 ---
 slug: character-branding
-rank: 5
-featured: false
+rank: 7
+featured: true
 category: Branding
+tags: [branding, logo, sports]
 cover: images/cover.webp
-source: Supplied CV, page 10
+gallery:
+  - "images/gallery-1.webp"
+  - "images/gallery-2.webp"
+source: Extracted from 23.ai
 title:
-  en: Character-led identity applications
-  fa: هویت بصری با محوریت یک شخصیت
+  en: "Travelogue & Sports Team Logo Design"
+  fa: "طراحی لوگو سفرنامه خارجی و تیم ورزشی"
 summary:
-  en: A character and identity carried across printed pieces and illustrated product scenes.
-  fa: یک شخصیت و هویت بصری که روی چاپی‌ها و صحنه‌های مصور محصول تکرار می‌شود.
+  en: "Custom emblem for travel publication and local sports team logo."
+  fa: "طراحی نشان اختصاصی برای رسانه سفرنامه و لوگوی ورزشی تیم بیسبال محلی."
 context:
-  en: An illustrated character, a cap, a circular mark, and packaging or campaign applications, shown together.
-  fa: یک شخصیت تصویرسازی‌شده، یک کلاه، یک نشان دایره‌ای و نمونه‌هایی از بسته‌بندی یا کمپین، در کنار هم.
+  en: "International emblem designs incorporating dynamic athletic and travel motifs."
+  fa: "پروژه‌های طراحی آرم بین‌المللی با سبک نشانه‌شناسی ورزشی و سفر."
 shown:
-  en: One recognizable character carried into several formats. The client and brief aren’t named.
-  fa: یک شخصیت قابل تشخیص که در چند قالب مختلف تکرار می‌شود. نام مشتری و بریف ذکر نشده است.
+  en: "Vector logos, monochrome iterations, and apparel application mockups."
+  fa: "لوگوهای وکتور، نسخه‌های رنگی و تک‌رنگ و کاربرد در اقلام هواداری."
 categoryLabel:
-  en: Branding
-  fa: هویت بصری
+  en: "Branding"
+  fa: "طراحی لوگو سفرنامه خارجی و تیم ورزشی"
 ---

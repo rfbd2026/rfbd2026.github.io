@@ -1,23 +1,29 @@
 ---
 slug: amazon-a-plus-graphics
-rank: 9
+rank: 12
 featured: true
 category: Digital
+tags: [amazon, ecommerce, infographics]
 cover: images/cover.webp
-source: Supplied CV, page 16
+gallery:
+  - "images/gallery-1.webp"
+  - "images/gallery-2.webp"
+  - "images/gallery-3.webp"
+  - "images/gallery-4.webp"
+source: Extracted from 23.ai
 title:
-  en: Product information for the Amazon page
-  fa: اطلاعات محصول برای صفحه آمازون
+  en: "Amazon A+ Content & Listing Infographics"
+  fa: "گرافیک دیسکریپشن آمازون — Amazon A+ Content"
 summary:
-  en: Product banners, comparison panels, and e-commerce visuals that work together on one listing.
-  fa: بنرهای محصول، پنل‌های مقایسه و تصویرهای فروشگاهی که کنار هم یک صفحه محصول کامل می‌سازند.
+  en: "Amazon A+ Enhanced Brand Content designed to global retail guidelines."
+  fa: "طراحی صفحات توصیفی محصولات آمازون مطابق استانداردهای سختگیرانه فروشگاه جهانی."
 context:
-  en: A product listing and its supporting A+ style modules, laid out as a grid.
-  fa: یک صفحه محصول و ماژول‌های تکمیلی به سبک A+، در قالب یک شبکه.
+  en: "Custom infographic modules, feature callouts, and comparison charts driving Amazon conversions."
+  fa: "طراحی ماژول‌های اینفوگرافیک، مقایسه ویژگی‌ها و معرفی مزایای محصول در آمازون."
 shown:
-  en: Product photography, comparison panels, benefit callouts, and campaign frames. No sales or conversion figures are claimed.
-  fa: عکس محصول، پنل مقایسه، نمایش مزیت‌ها و قاب‌های کمپین. آمار فروش یا نرخ تبدیلی ادعا نمی‌شود.
+  en: "Wide banner modules, comparative product matrices, and benefit highlight graphics."
+  fa: "ماژول‌های تصویری عریض، مقایسه محصولات و آیکون‌های ویژگی‌های کلیدی."
 categoryLabel:
-  en: Digital / Amazon
-  fa: دیجیتال / آمازون
+  en: "Digital"
+  fa: "گرافیک دیسکریپشن آمازون — Amazon A+ Content"
 ---

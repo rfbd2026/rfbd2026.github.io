@@ -1,23 +1,32 @@
 ---
 slug: tea-pouch-series
-rank: 3
+rank: 5
 featured: true
 category: Packaging
+tags: [packaging, tea, herbal]
 cover: images/cover.webp
-source: Supplied CV, page 7
+gallery:
+  - "images/gallery-1.webp"
+  - "images/gallery-2.webp"
+  - "images/gallery-3.webp"
+  - "images/gallery-4.webp"
+  - "images/gallery-5.webp"
+  - "images/gallery-6.webp"
+  - "images/gallery-7.webp"
+source: Extracted from 23.ai
 title:
-  en: Tea, told through color
-  fa: چای، با زبان رنگ
+  en: "Herbal Tea Pouch Packaging Series"
+  fa: "مجموعه پاکت‌های بسته‌بندی چای گیاهی"
 summary:
-  en: A tea pouch range where bright color tells each variety apart.
-  fa: مجموعه‌ای از بسته‌های چای که هر طعم را با رنگ‌های زنده از بقیه جدا می‌کند.
+  en: "A color-coded zip-pouch series for herbal tea and organic infusions."
+  fa: "طراحی مجموعه پاکت‌های زیپ‌کیپ دمنوش و چای‌های ارگانیک با تفکیک رنگی طعم‌ها."
 context:
-  en: A row of resealable tea pouches, each in its own colorway.
-  fa: ردیفی از بسته‌های چای زیپ‌دار، هرکدام با رنگ‌بندی خودش.
+  en: "A unified visual architecture distinguishing multiple flavor SKUs on store shelves."
+  fa: "ایجاد زبان بصری منسجم برای لاین محصولات با هویت مدرن و چشم‌نواز."
 shown:
-  en: One package format with a changing palette and label, so the whole range reads as a family at a glance.
-  fa: یک فرم ثابت بسته با پالت و لیبل متفاوت؛ در یک نگاه معلوم است که همه یک خانواده‌اند.
+  en: "Stand-up metallic pouches, flavor differentiation graphics, and botanical color palettes."
+  fa: "پاکت‌های ایستاده متالایز، تفکیک گرافیکی انواع دمنوش و پالت‌های رنگی."
 categoryLabel:
-  en: Packaging
-  fa: بسته‌بندی
+  en: "Packaging"
+  fa: "مجموعه پاکت‌های بسته‌بندی چای گیاهی"
 ---

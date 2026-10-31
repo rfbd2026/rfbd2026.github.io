@@ -3,21 +3,27 @@ slug: packaging-systems
 rank: 2
 featured: true
 category: Packaging
+tags: [packaging, dieline, luxury]
 cover: images/cover.webp
-source: Supplied CV, page 5
+gallery:
+  - "images/gallery-1.webp"
+  - "images/gallery-2.webp"
+  - "images/gallery-3.webp"
+  - "images/gallery-4.webp"
+source: Extracted from 23.ai
 title:
-  en: Packaging systems, as a family
-  fa: بسته‌بندی‌هایی در یک خانواده
+  en: "Packaging Systems & Technical Die-lines"
+  fa: "سیستم‌های بسته‌بندی و فرآیند فنی"
 summary:
-  en: Cartons, bottles, jars, and product mockups designed to look like one family.
-  fa: جعبه، بطری، ظرف و موکاپ محصول، با زبان بصری یکدست.
+  en: "Precision die-line engineering, material curation, and premium unboxing experience."
+  fa: "تسلط بر طراحی فنی (Die-line)، انتخاب متریال و تجربه جعبه‌گشایی (Unboxing)."
 context:
-  en: Packaging for several product shapes and color directions, grouped together.
-  fa: بسته‌بندی برای چند شکل محصول و چند مسیر رنگی، کنار هم.
+  en: "Designed for retail shelf standout and enhanced consumer unboxing satisfaction."
+  fa: "طراحی با رویکرد ایجاد تمایز در قفسه و افزایش ارزش درک‌شده توسط مشتری."
 shown:
-  en: Cartons, labels, bottles, and product variants presented as one visual family. Clients and results aren’t named.
-  fa: جعبه، لیبل، بطری و گونه‌های محصول به‌صورت یک خانواده بصری. مشتریان و نتایج ذکر نشده است.
+  en: "Technical industrial die-lines, structural box layouts, and production materials."
+  fa: "دایکات‌های فنی صنعتی، ساختار جعبه و متریال‌های چاپ."
 categoryLabel:
-  en: Packaging
-  fa: بسته‌بندی
+  en: "Packaging"
+  fa: "سیستم‌های بسته‌بندی و فرآیند فنی"
 ---

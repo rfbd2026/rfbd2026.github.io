@@ -32,15 +32,28 @@ export default async function ProjectPage({ params }: { params: { locale: Locale
   return (
     <div className="site-shell page-space">
       <PageIntro eyebrow={project.categoryLabel[locale]} title={project.title[locale]}><p>{project.summary[locale]}</p></PageIntro>
-      <section className="case-study__image crop-frame mt-9 md:mt-12">
-        <Image src={project.coverUrl} alt={project.title[locale]} fill priority sizes="(max-width: 900px) 100vw, 92vw" className="object-contain" />
+
+      <section className="case-study__image crop-frame mt-9 md:mt-12 bg-white rounded-xl border border-rule overflow-hidden">
+        <Image src={project.coverUrl} alt={project.title[locale]} fill priority sizes="(max-width: 900px) 100vw, 92vw" className="object-contain p-4" />
       </section>
+
+      {project.galleryUrls && project.galleryUrls.length > 0 && (
+        <section className="case-study__gallery mt-10 grid grid-cols-1 md:grid-cols-2 gap-6" aria-label={locale === "fa" ? "گالری تصاویر پروژه" : "Project image gallery"}>
+          {project.galleryUrls.map((url, i) => (
+            <div key={url} className="relative aspect-[4/3] rounded-xl overflow-hidden border border-rule bg-white shadow-sm">
+              <Image src={url} alt={`${project.title[locale]} — ${i + 1}`} fill sizes="(max-width: 768px) 100vw, 50vw" className="object-contain p-4" />
+            </div>
+          ))}
+        </section>
+      )}
+
       <section className="case-study__facts section-space">
         <div><p className="eyebrow">{t("context")}</p><p className="mt-4 text-base leading-8">{project.context[locale]}</p></div>
         <div><p className="eyebrow">{t("shown")}</p><p className="mt-4 text-base leading-8">{project.shown[locale]}</p></div>
-        <div><p className="eyebrow">{t("process")}</p><p className="mt-4 text-sm leading-7 text-muted">{t("processUnavailable")}</p></div>
-        <div><p className="eyebrow">{t("result")}</p><p className="mt-4 text-sm leading-7 text-muted">{t("resultNote")}</p></div>
+        <div><p className="eyebrow">{locale === "fa" ? "دسته‌بندی" : "Category"}</p><p className="mt-4 text-base leading-8 font-medium">{project.category}</p></div>
+        <div><p className="eyebrow">{locale === "fa" ? "برچسب‌ها" : "Tags"}</p><p className="mt-4 text-sm leading-7 text-muted">{project.tags.join(" · ")}</p></div>
       </section>
+
       <div className="flex flex-wrap items-center justify-between gap-5 border-t border-rule py-7 text-sm">
         {previous ? <Link href={`/work/${previous.slug}`} className="text-link">← {t("previous")}: {previous.title[locale]}</Link> : <span />}
         {next ? <Link href={`/work/${next.slug}`} className="text-link">{t("next")}: {next.title[locale]} →</Link> : null}

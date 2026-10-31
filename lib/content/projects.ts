@@ -12,6 +12,7 @@ const projectSchema = z.object({
   category: z.string().min(1),
   tags: z.array(z.string().min(1)).default([]),
   cover: z.string().regex(/^images\/[a-z0-9-]+\.(?:webp|png|jpe?g)$/i),
+  gallery: z.array(z.string()).optional().default([]),
   source: z.string().min(1),
   title: localizedText,
   summary: localizedText,
@@ -21,7 +22,7 @@ const projectSchema = z.object({
 });
 
 export type Locale = "en" | "fa";
-export type WorkProject = z.infer<typeof projectSchema> & { coverUrl: string };
+export type WorkProject = z.infer<typeof projectSchema> & { coverUrl: string; galleryUrls: string[] };
 
 function parseProject(folder: string): WorkProject | null {
   const markdownPath = path.join(root, folder, "project.md");
@@ -32,7 +33,8 @@ function parseProject(folder: string): WorkProject | null {
   if (project.slug !== folder) {
     throw new Error(`Project folder/slug mismatch: ${folder} != ${project.slug}`);
   }
-  return { ...project, coverUrl: `/projects/${project.slug}/${project.cover}` };
+  const galleryUrls = (project.gallery || []).map((img) => `/projects/${project.slug}/${img}`);
+  return { ...project, coverUrl: `/projects/${project.slug}/${project.cover}`, galleryUrls };
 }
 
 export function getProjects(): WorkProject[] {
@@ -46,7 +48,7 @@ export function getProjects(): WorkProject[] {
 }
 
 export function getFeaturedProjects(): WorkProject[] {
-  return getProjects().filter((project) => project.featured).slice(0, 6);
+  return getProjects().filter((project) => project.featured).slice(0, 8);
 }
 
 export function getProject(slug: string): WorkProject | undefined {

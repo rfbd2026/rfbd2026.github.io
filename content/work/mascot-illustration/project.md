@@ -1,23 +1,31 @@
 ---
 slug: mascot-illustration
-rank: 4
+rank: 6
 featured: true
 category: Illustration
+tags: [illustration, mascot, stickers]
 cover: images/cover.webp
-source: Supplied CV, page 9
+gallery:
+  - "images/gallery-1.webp"
+  - "images/gallery-2.webp"
+  - "images/gallery-3.webp"
+  - "images/gallery-4.webp"
+  - "images/gallery-5.webp"
+  - "images/gallery-6.webp"
+source: Extracted from 23.ai
 title:
-  en: A character with many expressions
-  fa: شخصیتی با حالت‌های مختلف
+  en: "Brand Mascot & Sticker Pack — Royal Pack"
+  fa: "مسکات و پکیج استیکر — رویال پک"
 summary:
-  en: A mascot study showing one character in different poses and expressions.
-  fa: "طراحی ماسکات: یک شخصیت در ژست‌ها و حالت‌های چهره مختلف."
+  en: "Custom brand mascot and expressive sticker pack for Royal Pack brand."
+  fa: "طراحی کاراکتر تبلیغاتی (مسکات) و استیکرهای خلاقانه برای برند رویال پک."
 context:
-  en: A set of poses and expressions together on one illustration board.
-  fa: مجموعه‌ای از ژست‌ها و حالت‌های چهره روی یک صفحه تصویرسازی.
+  en: "Developing an approachable character identity for customer engagement across digital platforms."
+  fa: "خلق کاراکتر اختصاصی برای ارتباط صمیمانه با مشتریان در رسانه‌های دیجیتال."
 shown:
-  en: The same character varies through gesture, expression, and small props. No usage brief or campaign results are claimed.
-  fa: یک شخصیت که با ژست، حالت چهره و جزئیات کوچک تنوع پیدا می‌کند. بریف استفاده یا نتیجه کمپینی ذکر نشده است.
+  en: "Expressive sticker set, character model sheet, and high-precision vector illustrations."
+  fa: "مجموعه استیکرهای احساسی، زوایای مختلف کاراکتر و اجرای وکتور."
 categoryLabel:
-  en: Illustration
-  fa: تصویرسازی
+  en: "Illustration"
+  fa: "مسکات و پکیج استیکر — رویال پک"
 ---

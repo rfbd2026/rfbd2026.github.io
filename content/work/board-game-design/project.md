@@ -1,24 +1,26 @@
 ---
 slug: board-game-design
-rank: 12
+rank: 8
 featured: true
 category: Packaging
-tags: [portfolio, 23ai]
+tags: [game, packaging, cards]
 cover: images/cover.webp
-source: Supplied CV 23.ai, page_11.webp
+gallery:
+  - "images/gallery-1.webp"
+source: Extracted from 23.ai
 title:
-  en: "Board Game & Playing Cards Packaging"
-  fa: "طراحی کارت‌های بازی و بسته‌بندی"
+  en: "Board Game Cards & Complete Packaging"
+  fa: "طراحی کارت‌های بازی و بسته‌بندی کامل"
 summary:
-  en: "Complete playing card deck and packaging design."
-  fa: "طراحی کامل کارت‌های بازی همراه با جعبه و بسته‌بندی اختصاصی."
+  en: "Full deck card illustration, typography, and bespoke rigid box packaging."
+  fa: "طراحی گرافیک روی کارت‌ها، تصویرسازی و بسته‌بندی اختصاصی جعبه بازی."
 context:
-  en: "Graphic design for game cards and complete packaging with production readiness."
-  fa: "پروژه طراحی گرافیک کارت‌ها و بسته‌بندی با جزئیات کامل تولید."
+  en: "Tabletop gaming package complete with rulebook typography and custom card tuck-boxes."
+  fa: "پروژه بازی رومیزی همراه با دفترچه راهنما و دایکات‌های دقیق صنعتی."
 shown:
-  en: "Playing cards, die-line box structure, and visual design."
-  fa: "کارت‌های بازی، ساختار دایکات جعبه و طراحی گرافیکی."
+  en: "Illustrated playing cards, box structural layout, and final print production assets."
+  fa: "کارت‌های بازی مصور، ساختار جعبه و گرافیک نهایی چاپ."
 categoryLabel:
   en: "Packaging"
-  fa: "طراحی کارت‌های بازی و بسته‌بندی"
+  fa: "طراحی کارت‌های بازی و بسته‌بندی کامل"
 ---

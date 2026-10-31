@@ -1,23 +1,29 @@
 ---
 slug: food-brand-packaging
-rank: 10
+rank: 3
 featured: true
 category: Packaging
+tags: [packaging, saffron, luxury]
 cover: images/cover.webp
-source: Supplied CV, pages 17–18
+gallery:
+  - "images/gallery-1.webp"
+  - "images/gallery-2.webp"
+  - "images/gallery-3.webp"
+  - "images/gallery-4.webp"
+source: Extracted from 23.ai
 title:
-  en: Food product imagery and packaging
-  fa: عکس غذا و بسته‌بندی محصول
+  en: "Export Saffron Packaging — Golden Saffron"
+  fa: "بسته‌بندی صادراتی زعفران — Golden Saffron"
 summary:
-  en: Food photography, product packaging, and promotional content in one visual set.
-  fa: عکس غذا، بسته‌بندی محصول و محتوای تبلیغاتی در یک مجموعه بصری.
+  en: "Luxury saffron packaging design for international markets with premium finishes."
+  fa: "طراحی بسته‌بندی لوکس زعفران برای بازارهای بین‌المللی با متریال باکیفیت."
 context:
-  en: Food close-ups, packaged products, and product-focused promotional layouts.
-  fa: نمای نزدیک غذا، محصولات بسته‌بندی‌شده و چیدمان‌های تبلیغاتی با تمرکز بر محصول.
+  en: "Hard-box and glass jar container packaging tailored for export market compliance."
+  fa: "پروژه طراحی بسته‌بندی هاردباکس و ظروف شیشه‌ای زعفران صادراتی."
 shown:
-  en: Close food imagery sits alongside packaging and promotional layouts. The brand, campaign goal, and results aren’t named.
-  fa: تصویرهای نزدیک غذا کنار بسته‌بندی و چیدمان‌های تبلیغاتی قرار گرفته‌اند. نام برند، هدف کمپین و نتایج ذکر نشده است.
+  en: "Luxury rigid gift boxes, container closures, and saffron presentation displays."
+  fa: "جعبه‌های هاردباکس لوکس، طراحی درب و ظروف زعفران."
 categoryLabel:
-  en: Packaging / Digital
-  fa: بسته‌بندی / دیجیتال
+  en: "Packaging"
+  fa: "بسته‌بندی صادراتی زعفران — Golden Saffron"
 ---
