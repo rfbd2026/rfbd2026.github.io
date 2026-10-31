@@ -1,0 +1,22 @@
+{
+  "routes": [
+    { "path": "/", "title": "English language redirect" },
+    { "path": "/en", "title": "Home" }, { "path": "/fa", "title": "خانه" },
+    { "path": "/en/about", "title": "About" }, { "path": "/fa/about", "title": "درباره" },
+    { "path": "/en/work", "title": "Work" }, { "path": "/fa/work", "title": "آثار" },
+    { "path": "/en/work/:slug", "title": "Project case study" }, { "path": "/fa/work/:slug", "title": "مطالعه موردی پروژه" },
+    { "path": "/en/shop", "title": "Shop" }, { "path": "/fa/shop", "title": "فروشگاه" },
+    { "path": "/en/shop/:slug", "title": "Product details" }, { "path": "/fa/shop/:slug", "title": "جزئیات محصول" },
+    { "path": "/en/cart", "title": "Planning cart" }, { "path": "/fa/cart", "title": "سبد برنامه‌ریزی" },
+    { "path": "/en/tools", "title": "Tools" }, { "path": "/fa/tools", "title": "ابزارها" },
+    { "path": "/en/tools/:slug", "title": "Design tool" }, { "path": "/fa/tools/:slug", "title": "ابزار طراحی" },
+    { "path": "/en/journal", "title": "Journal" }, { "path": "/fa/journal", "title": "یادداشت‌ها" },
+    { "path": "/en/journal/:slug", "title": "Journal article" }, { "path": "/fa/journal/:slug", "title": "یادداشت طراحی" },
+    { "path": "/en/contact", "title": "Contact" }, { "path": "/fa/contact", "title": "تماس" },
+    { "path": "/en/review", "title": "Portfolio review" }, { "path": "/fa/review", "title": "بازبینی پورتفولیو" },
+    { "path": "/en/account/downloads", "title": "Downloads" }, { "path": "/fa/account/downloads", "title": "دانلودها" },
+    { "path": "/en/terms", "title": "Terms" }, { "path": "/fa/terms", "title": "شرایط استفاده" },
+    { "path": "/en/privacy", "title": "Privacy" }, { "path": "/fa/privacy", "title": "حریم خصوصی" },
+    { "path": "/en/license", "title": "Product license" }, { "path": "/fa/license", "title": "مجوز محصول" }
+  ]
+}

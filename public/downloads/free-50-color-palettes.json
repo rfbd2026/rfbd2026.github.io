@@ -1,0 +1,4120 @@
+{
+  "title": "Free 50 Editorial Color Palettes",
+  "titleFa": "۵۰ پالت رنگی تحریریه رایگان",
+  "version": "1.0.0",
+  "colorSpace": "sRGB",
+  "count": 50,
+  "colorsPerPalette": 5,
+  "notes": [
+    "A separate free starter set; it is not the paid 100-palette product.",
+    "RGB values are starting points. Check accessibility contrast for the actual type size and use.",
+    "Screen values are not a guaranteed CMYK print match. Proof and adjust with the printer before production."
+  ],
+  "notesFa": [
+    "این مجموعه رایگانِ مستقل است و جایگزین محصول پولی ۱۰۰ پالت نیست.",
+    "مقادیر RGB نقطه شروع‌اند؛ کنتراست را برای اندازه و کاربرد واقعی بررسی کنید.",
+    "رنگ نمایشگر تضمین تطابق CMYK چاپ نیست؛ پیش از تولید نمونه‌گیری کنید."
+  ],
+  "palettes": [
+    {
+      "id": "free-01",
+      "name": "Cedar / Mist",
+      "nameFa": "سدر / مه",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F5F3",
+          "rgb": {
+            "r": 247,
+            "g": 245,
+            "b": 243
+          },
+          "hsl": {
+            "h": 26,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EAE3DC",
+          "rgb": {
+            "r": 234,
+            "g": 227,
+            "b": 220
+          },
+          "hsl": {
+            "h": 32,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#BC6938",
+          "rgb": {
+            "r": 188,
+            "g": 105,
+            "b": 56
+          },
+          "hsl": {
+            "h": 22,
+            "s": 54,
+            "l": 48
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#C6CD60",
+          "rgb": {
+            "r": 198,
+            "g": 205,
+            "b": 96
+          },
+          "hsl": {
+            "h": 64,
+            "s": 52,
+            "l": 59
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#1F86C1",
+          "rgb": {
+            "r": 31,
+            "g": 134,
+            "b": 193
+          },
+          "hsl": {
+            "h": 202,
+            "s": 72,
+            "l": 44
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-02",
+      "name": "Cedar / Ink",
+      "nameFa": "سدر / جوهر",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F4F3",
+          "rgb": {
+            "r": 247,
+            "g": 244,
+            "b": 243
+          },
+          "hsl": {
+            "h": 15,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EAE1DC",
+          "rgb": {
+            "r": 234,
+            "g": 225,
+            "b": 220
+          },
+          "hsl": {
+            "h": 21,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#A53E27",
+          "rgb": {
+            "r": 165,
+            "g": 62,
+            "b": 39
+          },
+          "hsl": {
+            "h": 11,
+            "s": 62,
+            "l": 40
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#CDC44C",
+          "rgb": {
+            "r": 205,
+            "g": 196,
+            "b": 76
+          },
+          "hsl": {
+            "h": 56,
+            "s": 56,
+            "l": 55
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#1B84B1",
+          "rgb": {
+            "r": 27,
+            "g": 132,
+            "b": 177
+          },
+          "hsl": {
+            "h": 198,
+            "s": 74,
+            "l": 40
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-03",
+      "name": "Cedar / Pulse",
+      "nameFa": "سدر / ضربان",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F5F3",
+          "rgb": {
+            "r": 247,
+            "g": 245,
+            "b": 243
+          },
+          "hsl": {
+            "h": 39,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EAE7DC",
+          "rgb": {
+            "r": 234,
+            "g": 231,
+            "b": 220
+          },
+          "hsl": {
+            "h": 45,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#DE9A3B",
+          "rgb": {
+            "r": 222,
+            "g": 154,
+            "b": 59
+          },
+          "hsl": {
+            "h": 35,
+            "s": 71,
+            "l": 55
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#ACD864",
+          "rgb": {
+            "r": 172,
+            "g": 216,
+            "b": 100
+          },
+          "hsl": {
+            "h": 83,
+            "s": 60,
+            "l": 62
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#1C3DD4",
+          "rgb": {
+            "r": 28,
+            "g": 61,
+            "b": 212
+          },
+          "hsl": {
+            "h": 229,
+            "s": 77,
+            "l": 47
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-04",
+      "name": "Cedar / Soft Cut",
+      "nameFa": "سدر / برش نرم",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F6F3",
+          "rgb": {
+            "r": 247,
+            "g": 246,
+            "b": 243
+          },
+          "hsl": {
+            "h": 50,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EAE9DC",
+          "rgb": {
+            "r": 234,
+            "g": 233,
+            "b": 220
+          },
+          "hsl": {
+            "h": 56,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#C8AF5B",
+          "rgb": {
+            "r": 200,
+            "g": 175,
+            "b": 91
+          },
+          "hsl": {
+            "h": 46,
+            "s": 50,
+            "l": 57
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#96D071",
+          "rgb": {
+            "r": 150,
+            "g": 208,
+            "b": 113
+          },
+          "hsl": {
+            "h": 97,
+            "s": 50,
+            "l": 63
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#3925D0",
+          "rgb": {
+            "r": 57,
+            "g": 37,
+            "b": 208
+          },
+          "hsl": {
+            "h": 247,
+            "s": 70,
+            "l": 48
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-05",
+      "name": "Cedar / Contrast",
+      "nameFa": "سدر / کنتراست",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F3F3",
+          "rgb": {
+            "r": 247,
+            "g": 243,
+            "b": 243
+          },
+          "hsl": {
+            "h": 4,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EADEDC",
+          "rgb": {
+            "r": 234,
+            "g": 222,
+            "b": 220
+          },
+          "hsl": {
+            "h": 10,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#D21919",
+          "rgb": {
+            "r": 210,
+            "g": 25,
+            "b": 25
+          },
+          "hsl": {
+            "h": 0,
+            "s": 79,
+            "l": 46
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#D8CB4F",
+          "rgb": {
+            "r": 216,
+            "g": 203,
+            "b": 79
+          },
+          "hsl": {
+            "h": 54,
+            "s": 64,
+            "l": 58
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#1673C5",
+          "rgb": {
+            "r": 22,
+            "g": 115,
+            "b": 197
+          },
+          "hsl": {
+            "h": 208,
+            "s": 80,
+            "l": 43
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-06",
+      "name": "Persimmon / Mist",
+      "nameFa": "خرمالو / مه",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F4F3",
+          "rgb": {
+            "r": 247,
+            "g": 244,
+            "b": 243
+          },
+          "hsl": {
+            "h": 16,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EAE1DC",
+          "rgb": {
+            "r": 234,
+            "g": 225,
+            "b": 220
+          },
+          "hsl": {
+            "h": 22,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#BC5338",
+          "rgb": {
+            "r": 188,
+            "g": 83,
+            "b": 56
+          },
+          "hsl": {
+            "h": 12,
+            "s": 54,
+            "l": 48
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#CDC260",
+          "rgb": {
+            "r": 205,
+            "g": 194,
+            "b": 96
+          },
+          "hsl": {
+            "h": 54,
+            "s": 52,
+            "l": 59
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#1FA1C1",
+          "rgb": {
+            "r": 31,
+            "g": 161,
+            "b": 193
+          },
+          "hsl": {
+            "h": 192,
+            "s": 72,
+            "l": 44
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-07",
+      "name": "Persimmon / Ink",
+      "nameFa": "خرمالو / جوهر",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F3F3",
+          "rgb": {
+            "r": 247,
+            "g": 243,
+            "b": 243
+          },
+          "hsl": {
+            "h": 5,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EADEDC",
+          "rgb": {
+            "r": 234,
+            "g": 222,
+            "b": 220
+          },
+          "hsl": {
+            "h": 11,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#A52927",
+          "rgb": {
+            "r": 165,
+            "g": 41,
+            "b": 39
+          },
+          "hsl": {
+            "h": 1,
+            "s": 62,
+            "l": 40
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#CDAF4C",
+          "rgb": {
+            "r": 205,
+            "g": 175,
+            "b": 76
+          },
+          "hsl": {
+            "h": 46,
+            "s": 56,
+            "l": 55
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#1B9DB1",
+          "rgb": {
+            "r": 27,
+            "g": 157,
+            "b": 177
+          },
+          "hsl": {
+            "h": 188,
+            "s": 74,
+            "l": 40
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-08",
+      "name": "Persimmon / Pulse",
+      "nameFa": "خرمالو / ضربان",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F5F3",
+          "rgb": {
+            "r": 247,
+            "g": 245,
+            "b": 243
+          },
+          "hsl": {
+            "h": 29,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EAE4DC",
+          "rgb": {
+            "r": 234,
+            "g": 228,
+            "b": 220
+          },
+          "hsl": {
+            "h": 35,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#DE7F3B",
+          "rgb": {
+            "r": 222,
+            "g": 127,
+            "b": 59
+          },
+          "hsl": {
+            "h": 25,
+            "s": 71,
+            "l": 55
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#BFD864",
+          "rgb": {
+            "r": 191,
+            "g": 216,
+            "b": 100
+          },
+          "hsl": {
+            "h": 73,
+            "s": 60,
+            "l": 62
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#1C5CD4",
+          "rgb": {
+            "r": 28,
+            "g": 92,
+            "b": 212
+          },
+          "hsl": {
+            "h": 219,
+            "s": 77,
+            "l": 47
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-09",
+      "name": "Persimmon / Soft Cut",
+      "nameFa": "خرمالو / برش نرم",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F5F3",
+          "rgb": {
+            "r": 247,
+            "g": 245,
+            "b": 243
+          },
+          "hsl": {
+            "h": 40,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EAE7DC",
+          "rgb": {
+            "r": 234,
+            "g": 231,
+            "b": 220
+          },
+          "hsl": {
+            "h": 46,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#C89C5B",
+          "rgb": {
+            "r": 200,
+            "g": 156,
+            "b": 91
+          },
+          "hsl": {
+            "h": 36,
+            "s": 50,
+            "l": 57
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#A5D071",
+          "rgb": {
+            "r": 165,
+            "g": 208,
+            "b": 113
+          },
+          "hsl": {
+            "h": 87,
+            "s": 50,
+            "l": 63
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#252DD0",
+          "rgb": {
+            "r": 37,
+            "g": 45,
+            "b": 208
+          },
+          "hsl": {
+            "h": 237,
+            "s": 70,
+            "l": 48
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-10",
+      "name": "Persimmon / Contrast",
+      "nameFa": "خرمالو / کنتراست",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F3F3",
+          "rgb": {
+            "r": 247,
+            "g": 243,
+            "b": 243
+          },
+          "hsl": {
+            "h": 354,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EADCDC",
+          "rgb": {
+            "r": 234,
+            "g": 220,
+            "b": 220
+          },
+          "hsl": {
+            "h": 0,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#D21938",
+          "rgb": {
+            "r": 210,
+            "g": 25,
+            "b": 56
+          },
+          "hsl": {
+            "h": 350,
+            "s": 79,
+            "l": 46
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#D8B44F",
+          "rgb": {
+            "r": 216,
+            "g": 180,
+            "b": 79
+          },
+          "hsl": {
+            "h": 44,
+            "s": 64,
+            "l": 58
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#1691C5",
+          "rgb": {
+            "r": 22,
+            "g": 145,
+            "b": 197
+          },
+          "hsl": {
+            "h": 198,
+            "s": 80,
+            "l": 43
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-11",
+      "name": "Salt Garden / Mist",
+      "nameFa": "باغ نمک / مه",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F3F6F7",
+          "rgb": {
+            "r": 243,
+            "g": 246,
+            "b": 247
+          },
+          "hsl": {
+            "h": 198,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DCE4EA",
+          "rgb": {
+            "r": 220,
+            "g": 228,
+            "b": 234
+          },
+          "hsl": {
+            "h": 204,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#389EBC",
+          "rgb": {
+            "r": 56,
+            "g": 158,
+            "b": 188
+          },
+          "hsl": {
+            "h": 194,
+            "s": 54,
+            "l": 48
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#6067CD",
+          "rgb": {
+            "r": 96,
+            "g": 103,
+            "b": 205
+          },
+          "hsl": {
+            "h": 236,
+            "s": 52,
+            "l": 59
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#C1451F",
+          "rgb": {
+            "r": 193,
+            "g": 69,
+            "b": 31
+          },
+          "hsl": {
+            "h": 14,
+            "s": 72,
+            "l": 44
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-12",
+      "name": "Salt Garden / Ink",
+      "nameFa": "باغ نمک / جوهر",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F3F6F7",
+          "rgb": {
+            "r": 243,
+            "g": 246,
+            "b": 247
+          },
+          "hsl": {
+            "h": 187,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DCE7EA",
+          "rgb": {
+            "r": 220,
+            "g": 231,
+            "b": 234
+          },
+          "hsl": {
+            "h": 193,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#279FA5",
+          "rgb": {
+            "r": 39,
+            "g": 159,
+            "b": 165
+          },
+          "hsl": {
+            "h": 183,
+            "s": 62,
+            "l": 40
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#4C66CD",
+          "rgb": {
+            "r": 76,
+            "g": 102,
+            "b": 205
+          },
+          "hsl": {
+            "h": 228,
+            "s": 56,
+            "l": 55
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#B1341B",
+          "rgb": {
+            "r": 177,
+            "g": 52,
+            "b": 27
+          },
+          "hsl": {
+            "h": 10,
+            "s": 74,
+            "l": 40
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-13",
+      "name": "Salt Garden / Pulse",
+      "nameFa": "باغ نمک / ضربان",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F3F5F7",
+          "rgb": {
+            "r": 243,
+            "g": 245,
+            "b": 247
+          },
+          "hsl": {
+            "h": 211,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DCE1EA",
+          "rgb": {
+            "r": 220,
+            "g": 225,
+            "b": 234
+          },
+          "hsl": {
+            "h": 217,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#3B94DE",
+          "rgb": {
+            "r": 59,
+            "g": 148,
+            "b": 222
+          },
+          "hsl": {
+            "h": 207,
+            "s": 71,
+            "l": 55
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#8164D8",
+          "rgb": {
+            "r": 129,
+            "g": 100,
+            "b": 216
+          },
+          "hsl": {
+            "h": 255,
+            "s": 60,
+            "l": 62
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#D49A1C",
+          "rgb": {
+            "r": 212,
+            "g": 154,
+            "b": 28
+          },
+          "hsl": {
+            "h": 41,
+            "s": 77,
+            "l": 47
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-14",
+      "name": "Salt Garden / Soft Cut",
+      "nameFa": "باغ نمک / برش نرم",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F3F4F7",
+          "rgb": {
+            "r": 243,
+            "g": 244,
+            "b": 247
+          },
+          "hsl": {
+            "h": 222,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DCDFEA",
+          "rgb": {
+            "r": 220,
+            "g": 223,
+            "b": 234
+          },
+          "hsl": {
+            "h": 228,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#5B83C8",
+          "rgb": {
+            "r": 91,
+            "g": 131,
+            "b": 200
+          },
+          "hsl": {
+            "h": 218,
+            "s": 50,
+            "l": 57
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#9F71D0",
+          "rgb": {
+            "r": 159,
+            "g": 113,
+            "b": 208
+          },
+          "hsl": {
+            "h": 269,
+            "s": 50,
+            "l": 63
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#D0CD25",
+          "rgb": {
+            "r": 208,
+            "g": 205,
+            "b": 37
+          },
+          "hsl": {
+            "h": 59,
+            "s": 70,
+            "l": 48
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-15",
+      "name": "Salt Garden / Contrast",
+      "nameFa": "باغ نمک / کنتراست",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F3F7F6",
+          "rgb": {
+            "r": 243,
+            "g": 247,
+            "b": 246
+          },
+          "hsl": {
+            "h": 176,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DCEAEA",
+          "rgb": {
+            "r": 220,
+            "g": 234,
+            "b": 234
+          },
+          "hsl": {
+            "h": 182,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#19D2B9",
+          "rgb": {
+            "r": 25,
+            "g": 210,
+            "b": 185
+          },
+          "hsl": {
+            "h": 172,
+            "s": 79,
+            "l": 46
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#4F6FD8",
+          "rgb": {
+            "r": 79,
+            "g": 111,
+            "b": 216
+          },
+          "hsl": {
+            "h": 226,
+            "s": 64,
+            "l": 58
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#C55016",
+          "rgb": {
+            "r": 197,
+            "g": 80,
+            "b": 22
+          },
+          "hsl": {
+            "h": 20,
+            "s": 80,
+            "l": 43
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-16",
+      "name": "Moss / Mist",
+      "nameFa": "خزه / مه",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F3F7F3",
+          "rgb": {
+            "r": 243,
+            "g": 247,
+            "b": 243
+          },
+          "hsl": {
+            "h": 112,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DCEADC",
+          "rgb": {
+            "r": 220,
+            "g": 234,
+            "b": 220
+          },
+          "hsl": {
+            "h": 118,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#53BC38",
+          "rgb": {
+            "r": 83,
+            "g": 188,
+            "b": 56
+          },
+          "hsl": {
+            "h": 108,
+            "s": 54,
+            "l": 48
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#60CD96",
+          "rgb": {
+            "r": 96,
+            "g": 205,
+            "b": 150
+          },
+          "hsl": {
+            "h": 150,
+            "s": 52,
+            "l": 59
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#A11FC1",
+          "rgb": {
+            "r": 161,
+            "g": 31,
+            "b": 193
+          },
+          "hsl": {
+            "h": 288,
+            "s": 72,
+            "l": 44
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-17",
+      "name": "Moss / Ink",
+      "nameFa": "خزه / جوهر",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F4F7F3",
+          "rgb": {
+            "r": 244,
+            "g": 247,
+            "b": 243
+          },
+          "hsl": {
+            "h": 101,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DFEADC",
+          "rgb": {
+            "r": 223,
+            "g": 234,
+            "b": 220
+          },
+          "hsl": {
+            "h": 107,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#57A527",
+          "rgb": {
+            "r": 87,
+            "g": 165,
+            "b": 39
+          },
+          "hsl": {
+            "h": 97,
+            "s": 62,
+            "l": 40
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#4CCD7B",
+          "rgb": {
+            "r": 76,
+            "g": 205,
+            "b": 123
+          },
+          "hsl": {
+            "h": 142,
+            "s": 56,
+            "l": 55
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#891BB1",
+          "rgb": {
+            "r": 137,
+            "g": 27,
+            "b": 177
+          },
+          "hsl": {
+            "h": 284,
+            "s": 74,
+            "l": 40
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-18",
+      "name": "Moss / Pulse",
+      "nameFa": "خزه / ضربان",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F3F7F3",
+          "rgb": {
+            "r": 243,
+            "g": 247,
+            "b": 243
+          },
+          "hsl": {
+            "h": 125,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DCEADE",
+          "rgb": {
+            "r": 220,
+            "g": 234,
+            "b": 222
+          },
+          "hsl": {
+            "h": 131,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#3BDE3D",
+          "rgb": {
+            "r": 59,
+            "g": 222,
+            "b": 61
+          },
+          "hsl": {
+            "h": 121,
+            "s": 71,
+            "l": 55
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#64D8C3",
+          "rgb": {
+            "r": 100,
+            "g": 216,
+            "b": 195
+          },
+          "hsl": {
+            "h": 169,
+            "s": 60,
+            "l": 62
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#D41CA6",
+          "rgb": {
+            "r": 212,
+            "g": 28,
+            "b": 166
+          },
+          "hsl": {
+            "h": 315,
+            "s": 77,
+            "l": 47
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-19",
+      "name": "Moss / Soft Cut",
+      "nameFa": "خزه / برش نرم",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F3F7F4",
+          "rgb": {
+            "r": 243,
+            "g": 247,
+            "b": 244
+          },
+          "hsl": {
+            "h": 136,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DCEAE1",
+          "rgb": {
+            "r": 220,
+            "g": 234,
+            "b": 225
+          },
+          "hsl": {
+            "h": 142,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#5BC870",
+          "rgb": {
+            "r": 91,
+            "g": 200,
+            "b": 112
+          },
+          "hsl": {
+            "h": 132,
+            "s": 50,
+            "l": 57
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#71CBD0",
+          "rgb": {
+            "r": 113,
+            "g": 203,
+            "b": 208
+          },
+          "hsl": {
+            "h": 183,
+            "s": 50,
+            "l": 63
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#D02572",
+          "rgb": {
+            "r": 208,
+            "g": 37,
+            "b": 114
+          },
+          "hsl": {
+            "h": 333,
+            "s": 70,
+            "l": 48
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-20",
+      "name": "Moss / Contrast",
+      "nameFa": "خزه / کنتراست",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F5F7F3",
+          "rgb": {
+            "r": 245,
+            "g": 247,
+            "b": 243
+          },
+          "hsl": {
+            "h": 90,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#E1EADC",
+          "rgb": {
+            "r": 225,
+            "g": 234,
+            "b": 220
+          },
+          "hsl": {
+            "h": 96,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#82D219",
+          "rgb": {
+            "r": 130,
+            "g": 210,
+            "b": 25
+          },
+          "hsl": {
+            "h": 86,
+            "s": 79,
+            "l": 46
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#4FD87D",
+          "rgb": {
+            "r": 79,
+            "g": 216,
+            "b": 125
+          },
+          "hsl": {
+            "h": 140,
+            "s": 64,
+            "l": 58
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#B416C5",
+          "rgb": {
+            "r": 180,
+            "g": 22,
+            "b": 197
+          },
+          "hsl": {
+            "h": 294,
+            "s": 80,
+            "l": 43
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-21",
+      "name": "Mango / Mist",
+      "nameFa": "انبه / مه",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F6F3",
+          "rgb": {
+            "r": 247,
+            "g": 246,
+            "b": 243
+          },
+          "hsl": {
+            "h": 43,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EAE8DC",
+          "rgb": {
+            "r": 234,
+            "g": 232,
+            "b": 220
+          },
+          "hsl": {
+            "h": 49,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#BC8E38",
+          "rgb": {
+            "r": 188,
+            "g": 142,
+            "b": 56
+          },
+          "hsl": {
+            "h": 39,
+            "s": 54,
+            "l": 48
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#A7CD60",
+          "rgb": {
+            "r": 167,
+            "g": 205,
+            "b": 96
+          },
+          "hsl": {
+            "h": 81,
+            "s": 52,
+            "l": 59
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#1F58C1",
+          "rgb": {
+            "r": 31,
+            "g": 88,
+            "b": 193
+          },
+          "hsl": {
+            "h": 219,
+            "s": 72,
+            "l": 44
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-22",
+      "name": "Mango / Ink",
+      "nameFa": "انبه / جوهر",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F5F3",
+          "rgb": {
+            "r": 247,
+            "g": 245,
+            "b": 243
+          },
+          "hsl": {
+            "h": 32,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EAE5DC",
+          "rgb": {
+            "r": 234,
+            "g": 229,
+            "b": 220
+          },
+          "hsl": {
+            "h": 38,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#A56227",
+          "rgb": {
+            "r": 165,
+            "g": 98,
+            "b": 39
+          },
+          "hsl": {
+            "h": 28,
+            "s": 62,
+            "l": 40
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#B1CD4C",
+          "rgb": {
+            "r": 177,
+            "g": 205,
+            "b": 76
+          },
+          "hsl": {
+            "h": 73,
+            "s": 56,
+            "l": 55
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#1B59B1",
+          "rgb": {
+            "r": 27,
+            "g": 89,
+            "b": 177
+          },
+          "hsl": {
+            "h": 215,
+            "s": 74,
+            "l": 40
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-23",
+      "name": "Mango / Pulse",
+      "nameFa": "انبه / ضربان",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F6F3",
+          "rgb": {
+            "r": 247,
+            "g": 246,
+            "b": 243
+          },
+          "hsl": {
+            "h": 56,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EAEADC",
+          "rgb": {
+            "r": 234,
+            "g": 234,
+            "b": 220
+          },
+          "hsl": {
+            "h": 62,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#DEC83B",
+          "rgb": {
+            "r": 222,
+            "g": 200,
+            "b": 59
+          },
+          "hsl": {
+            "h": 52,
+            "s": 71,
+            "l": 55
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#8BD864",
+          "rgb": {
+            "r": 139,
+            "g": 216,
+            "b": 100
+          },
+          "hsl": {
+            "h": 100,
+            "s": 60,
+            "l": 62
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#2E1CD4",
+          "rgb": {
+            "r": 46,
+            "g": 28,
+            "b": 212
+          },
+          "hsl": {
+            "h": 246,
+            "s": 77,
+            "l": 47
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-24",
+      "name": "Mango / Soft Cut",
+      "nameFa": "انبه / برش نرم",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F6F7F3",
+          "rgb": {
+            "r": 246,
+            "g": 247,
+            "b": 243
+          },
+          "hsl": {
+            "h": 67,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#E7EADC",
+          "rgb": {
+            "r": 231,
+            "g": 234,
+            "b": 220
+          },
+          "hsl": {
+            "h": 73,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#C3C85B",
+          "rgb": {
+            "r": 195,
+            "g": 200,
+            "b": 91
+          },
+          "hsl": {
+            "h": 63,
+            "s": 50,
+            "l": 57
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#7BD071",
+          "rgb": {
+            "r": 123,
+            "g": 208,
+            "b": 113
+          },
+          "hsl": {
+            "h": 114,
+            "s": 50,
+            "l": 63
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#6925D0",
+          "rgb": {
+            "r": 105,
+            "g": 37,
+            "b": 208
+          },
+          "hsl": {
+            "h": 264,
+            "s": 70,
+            "l": 48
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-25",
+      "name": "Mango / Contrast",
+      "nameFa": "انبه / کنتراست",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F4F3",
+          "rgb": {
+            "r": 247,
+            "g": 244,
+            "b": 243
+          },
+          "hsl": {
+            "h": 21,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EAE2DC",
+          "rgb": {
+            "r": 234,
+            "g": 226,
+            "b": 220
+          },
+          "hsl": {
+            "h": 27,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#D24D19",
+          "rgb": {
+            "r": 210,
+            "g": 77,
+            "b": 25
+          },
+          "hsl": {
+            "h": 17,
+            "s": 79,
+            "l": 46
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#BFD84F",
+          "rgb": {
+            "r": 191,
+            "g": 216,
+            "b": 79
+          },
+          "hsl": {
+            "h": 71,
+            "s": 64,
+            "l": 58
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#1642C5",
+          "rgb": {
+            "r": 22,
+            "g": 66,
+            "b": 197
+          },
+          "hsl": {
+            "h": 225,
+            "s": 80,
+            "l": 43
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-26",
+      "name": "Blue Archive / Mist",
+      "nameFa": "آرشیو آبی / مه",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F3F4F7",
+          "rgb": {
+            "r": 243,
+            "g": 244,
+            "b": 247
+          },
+          "hsl": {
+            "h": 226,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DCDEEA",
+          "rgb": {
+            "r": 220,
+            "g": 222,
+            "b": 234
+          },
+          "hsl": {
+            "h": 232,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#3860BC",
+          "rgb": {
+            "r": 56,
+            "g": 96,
+            "b": 188
+          },
+          "hsl": {
+            "h": 222,
+            "s": 54,
+            "l": 48
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#8C60CD",
+          "rgb": {
+            "r": 140,
+            "g": 96,
+            "b": 205
+          },
+          "hsl": {
+            "h": 264,
+            "s": 52,
+            "l": 59
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#C1911F",
+          "rgb": {
+            "r": 193,
+            "g": 145,
+            "b": 31
+          },
+          "hsl": {
+            "h": 42,
+            "s": 72,
+            "l": 44
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-27",
+      "name": "Blue Archive / Ink",
+      "nameFa": "آرشیو آبی / جوهر",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F3F4F7",
+          "rgb": {
+            "r": 243,
+            "g": 244,
+            "b": 247
+          },
+          "hsl": {
+            "h": 215,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DCE0EA",
+          "rgb": {
+            "r": 220,
+            "g": 224,
+            "b": 234
+          },
+          "hsl": {
+            "h": 221,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#2764A5",
+          "rgb": {
+            "r": 39,
+            "g": 100,
+            "b": 165
+          },
+          "hsl": {
+            "h": 211,
+            "s": 62,
+            "l": 40
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#6E4CCD",
+          "rgb": {
+            "r": 110,
+            "g": 76,
+            "b": 205
+          },
+          "hsl": {
+            "h": 256,
+            "s": 56,
+            "l": 55
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#B17A1B",
+          "rgb": {
+            "r": 177,
+            "g": 122,
+            "b": 27
+          },
+          "hsl": {
+            "h": 38,
+            "s": 74,
+            "l": 40
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-28",
+      "name": "Blue Archive / Pulse",
+      "nameFa": "آرشیو آبی / ضربان",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F3F3F7",
+          "rgb": {
+            "r": 243,
+            "g": 243,
+            "b": 247
+          },
+          "hsl": {
+            "h": 239,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DDDCEA",
+          "rgb": {
+            "r": 221,
+            "g": 220,
+            "b": 234
+          },
+          "hsl": {
+            "h": 245,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#3B48DE",
+          "rgb": {
+            "r": 59,
+            "g": 72,
+            "b": 222
+          },
+          "hsl": {
+            "h": 235,
+            "s": 71,
+            "l": 55
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#B764D8",
+          "rgb": {
+            "r": 183,
+            "g": 100,
+            "b": 216
+          },
+          "hsl": {
+            "h": 283,
+            "s": 60,
+            "l": 62
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#B8D41C",
+          "rgb": {
+            "r": 184,
+            "g": 212,
+            "b": 28
+          },
+          "hsl": {
+            "h": 69,
+            "s": 77,
+            "l": 47
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-29",
+      "name": "Blue Archive / Soft Cut",
+      "nameFa": "آرشیو آبی / برش نرم",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F4F3F7",
+          "rgb": {
+            "r": 244,
+            "g": 243,
+            "b": 247
+          },
+          "hsl": {
+            "h": 250,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#E0DCEA",
+          "rgb": {
+            "r": 224,
+            "g": 220,
+            "b": 234
+          },
+          "hsl": {
+            "h": 256,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#655BC8",
+          "rgb": {
+            "r": 101,
+            "g": 91,
+            "b": 200
+          },
+          "hsl": {
+            "h": 246,
+            "s": 50,
+            "l": 57
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#CB71D0",
+          "rgb": {
+            "r": 203,
+            "g": 113,
+            "b": 208
+          },
+          "hsl": {
+            "h": 297,
+            "s": 50,
+            "l": 63
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#83D025",
+          "rgb": {
+            "r": 131,
+            "g": 208,
+            "b": 37
+          },
+          "hsl": {
+            "h": 87,
+            "s": 70,
+            "l": 48
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-30",
+      "name": "Blue Archive / Contrast",
+      "nameFa": "آرشیو آبی / کنتراست",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F3F5F7",
+          "rgb": {
+            "r": 243,
+            "g": 245,
+            "b": 247
+          },
+          "hsl": {
+            "h": 204,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DCE3EA",
+          "rgb": {
+            "r": 220,
+            "g": 227,
+            "b": 234
+          },
+          "hsl": {
+            "h": 210,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#1994D2",
+          "rgb": {
+            "r": 25,
+            "g": 148,
+            "b": 210
+          },
+          "hsl": {
+            "h": 200,
+            "s": 79,
+            "l": 46
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#6F4FD8",
+          "rgb": {
+            "r": 111,
+            "g": 79,
+            "b": 216
+          },
+          "hsl": {
+            "h": 254,
+            "s": 64,
+            "l": 58
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#C5A216",
+          "rgb": {
+            "r": 197,
+            "g": 162,
+            "b": 22
+          },
+          "hsl": {
+            "h": 48,
+            "s": 80,
+            "l": 43
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-31",
+      "name": "Lichen / Mist",
+      "nameFa": "گلسنگ / مه",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F5F7F3",
+          "rgb": {
+            "r": 245,
+            "g": 247,
+            "b": 243
+          },
+          "hsl": {
+            "h": 87,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#E2EADC",
+          "rgb": {
+            "r": 226,
+            "g": 234,
+            "b": 220
+          },
+          "hsl": {
+            "h": 93,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#8ABC38",
+          "rgb": {
+            "r": 138,
+            "g": 188,
+            "b": 56
+          },
+          "hsl": {
+            "h": 83,
+            "s": 54,
+            "l": 48
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#60CD69",
+          "rgb": {
+            "r": 96,
+            "g": 205,
+            "b": 105
+          },
+          "hsl": {
+            "h": 125,
+            "s": 52,
+            "l": 59
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#5D1FC1",
+          "rgb": {
+            "r": 93,
+            "g": 31,
+            "b": 193
+          },
+          "hsl": {
+            "h": 263,
+            "s": 72,
+            "l": 44
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-32",
+      "name": "Lichen / Ink",
+      "nameFa": "گلسنگ / جوهر",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F6F7F3",
+          "rgb": {
+            "r": 246,
+            "g": 247,
+            "b": 243
+          },
+          "hsl": {
+            "h": 76,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#E5EADC",
+          "rgb": {
+            "r": 229,
+            "g": 234,
+            "b": 220
+          },
+          "hsl": {
+            "h": 82,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#8CA527",
+          "rgb": {
+            "r": 140,
+            "g": 165,
+            "b": 39
+          },
+          "hsl": {
+            "h": 72,
+            "s": 62,
+            "l": 40
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#52CD4C",
+          "rgb": {
+            "r": 82,
+            "g": 205,
+            "b": 76
+          },
+          "hsl": {
+            "h": 117,
+            "s": 56,
+            "l": 55
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#4A1BB1",
+          "rgb": {
+            "r": 74,
+            "g": 27,
+            "b": 177
+          },
+          "hsl": {
+            "h": 259,
+            "s": 74,
+            "l": 40
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-33",
+      "name": "Lichen / Pulse",
+      "nameFa": "گلسنگ / ضربان",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F4F7F3",
+          "rgb": {
+            "r": 244,
+            "g": 247,
+            "b": 243
+          },
+          "hsl": {
+            "h": 100,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DFEADC",
+          "rgb": {
+            "r": 223,
+            "g": 234,
+            "b": 220
+          },
+          "hsl": {
+            "h": 106,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#7CDE3B",
+          "rgb": {
+            "r": 124,
+            "g": 222,
+            "b": 59
+          },
+          "hsl": {
+            "h": 96,
+            "s": 71,
+            "l": 55
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#64D892",
+          "rgb": {
+            "r": 100,
+            "g": 216,
+            "b": 146
+          },
+          "hsl": {
+            "h": 144,
+            "s": 60,
+            "l": 62
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#B51CD4",
+          "rgb": {
+            "r": 181,
+            "g": 28,
+            "b": 212
+          },
+          "hsl": {
+            "h": 290,
+            "s": 77,
+            "l": 47
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-34",
+      "name": "Lichen / Soft Cut",
+      "nameFa": "گلسنگ / برش نرم",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F4F7F3",
+          "rgb": {
+            "r": 244,
+            "g": 247,
+            "b": 243
+          },
+          "hsl": {
+            "h": 111,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DCEADC",
+          "rgb": {
+            "r": 220,
+            "g": 234,
+            "b": 220
+          },
+          "hsl": {
+            "h": 117,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#72C85B",
+          "rgb": {
+            "r": 114,
+            "g": 200,
+            "b": 91
+          },
+          "hsl": {
+            "h": 107,
+            "s": 50,
+            "l": 57
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#71D0AD",
+          "rgb": {
+            "r": 113,
+            "g": 208,
+            "b": 173
+          },
+          "hsl": {
+            "h": 158,
+            "s": 50,
+            "l": 63
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#D025B9",
+          "rgb": {
+            "r": 208,
+            "g": 37,
+            "b": 185
+          },
+          "hsl": {
+            "h": 308,
+            "s": 70,
+            "l": 48
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-35",
+      "name": "Lichen / Contrast",
+      "nameFa": "گلسنگ / کنتراست",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F6F7F3",
+          "rgb": {
+            "r": 246,
+            "g": 247,
+            "b": 243
+          },
+          "hsl": {
+            "h": 65,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#E8EADC",
+          "rgb": {
+            "r": 232,
+            "g": 234,
+            "b": 220
+          },
+          "hsl": {
+            "h": 71,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#CFD219",
+          "rgb": {
+            "r": 207,
+            "g": 210,
+            "b": 25
+          },
+          "hsl": {
+            "h": 61,
+            "s": 79,
+            "l": 46
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#5BD84F",
+          "rgb": {
+            "r": 91,
+            "g": 216,
+            "b": 79
+          },
+          "hsl": {
+            "h": 115,
+            "s": 64,
+            "l": 58
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#6B16C5",
+          "rgb": {
+            "r": 107,
+            "g": 22,
+            "b": 197
+          },
+          "hsl": {
+            "h": 269,
+            "s": 80,
+            "l": 43
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-36",
+      "name": "Plum / Mist",
+      "nameFa": "آلو / مه",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F6F3F7",
+          "rgb": {
+            "r": 246,
+            "g": 243,
+            "b": 247
+          },
+          "hsl": {
+            "h": 290,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#E9DCEA",
+          "rgb": {
+            "r": 233,
+            "g": 220,
+            "b": 234
+          },
+          "hsl": {
+            "h": 296,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#9E38BC",
+          "rgb": {
+            "r": 158,
+            "g": 56,
+            "b": 188
+          },
+          "hsl": {
+            "h": 286,
+            "s": 54,
+            "l": 48
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#CD609A",
+          "rgb": {
+            "r": 205,
+            "g": 96,
+            "b": 154
+          },
+          "hsl": {
+            "h": 328,
+            "s": 52,
+            "l": 59
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#45C11F",
+          "rgb": {
+            "r": 69,
+            "g": 193,
+            "b": 31
+          },
+          "hsl": {
+            "h": 106,
+            "s": 72,
+            "l": 44
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-37",
+      "name": "Plum / Ink",
+      "nameFa": "آلو / جوهر",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F5F3F7",
+          "rgb": {
+            "r": 245,
+            "g": 243,
+            "b": 247
+          },
+          "hsl": {
+            "h": 279,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#E7DCEA",
+          "rgb": {
+            "r": 231,
+            "g": 220,
+            "b": 234
+          },
+          "hsl": {
+            "h": 285,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#7127A5",
+          "rgb": {
+            "r": 113,
+            "g": 39,
+            "b": 165
+          },
+          "hsl": {
+            "h": 275,
+            "s": 62,
+            "l": 40
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#CD4CA2",
+          "rgb": {
+            "r": 205,
+            "g": 76,
+            "b": 162
+          },
+          "hsl": {
+            "h": 320,
+            "s": 56,
+            "l": 55
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#48B11B",
+          "rgb": {
+            "r": 72,
+            "g": 177,
+            "b": 27
+          },
+          "hsl": {
+            "h": 102,
+            "s": 74,
+            "l": 40
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-38",
+      "name": "Plum / Pulse",
+      "nameFa": "آلو / ضربان",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F3F6",
+          "rgb": {
+            "r": 247,
+            "g": 243,
+            "b": 246
+          },
+          "hsl": {
+            "h": 303,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EADCE8",
+          "rgb": {
+            "r": 234,
+            "g": 220,
+            "b": 232
+          },
+          "hsl": {
+            "h": 309,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#DB3BDE",
+          "rgb": {
+            "r": 219,
+            "g": 59,
+            "b": 222
+          },
+          "hsl": {
+            "h": 299,
+            "s": 71,
+            "l": 55
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#D8647D",
+          "rgb": {
+            "r": 216,
+            "g": 100,
+            "b": 125
+          },
+          "hsl": {
+            "h": 347,
+            "s": 60,
+            "l": 62
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#1CD444",
+          "rgb": {
+            "r": 28,
+            "g": 212,
+            "b": 68
+          },
+          "hsl": {
+            "h": 133,
+            "s": 77,
+            "l": 47
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-39",
+      "name": "Plum / Soft Cut",
+      "nameFa": "آلو / برش نرم",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F3F6",
+          "rgb": {
+            "r": 247,
+            "g": 243,
+            "b": 246
+          },
+          "hsl": {
+            "h": 314,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EADCE5",
+          "rgb": {
+            "r": 234,
+            "g": 220,
+            "b": 229
+          },
+          "hsl": {
+            "h": 320,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#C85BB6",
+          "rgb": {
+            "r": 200,
+            "g": 91,
+            "b": 182
+          },
+          "hsl": {
+            "h": 310,
+            "s": 50,
+            "l": 57
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#D07371",
+          "rgb": {
+            "r": 208,
+            "g": 115,
+            "b": 113
+          },
+          "hsl": {
+            "h": 1,
+            "s": 50,
+            "l": 63
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#25D07D",
+          "rgb": {
+            "r": 37,
+            "g": 208,
+            "b": 125
+          },
+          "hsl": {
+            "h": 151,
+            "s": 70,
+            "l": 48
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-40",
+      "name": "Plum / Contrast",
+      "nameFa": "آلو / کنتراست",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F5F3F7",
+          "rgb": {
+            "r": 245,
+            "g": 243,
+            "b": 247
+          },
+          "hsl": {
+            "h": 268,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#E4DCEA",
+          "rgb": {
+            "r": 228,
+            "g": 220,
+            "b": 234
+          },
+          "hsl": {
+            "h": 274,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#6319D2",
+          "rgb": {
+            "r": 99,
+            "g": 25,
+            "b": 210
+          },
+          "hsl": {
+            "h": 264,
+            "s": 79,
+            "l": 46
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#D84FAF",
+          "rgb": {
+            "r": 216,
+            "g": 79,
+            "b": 175
+          },
+          "hsl": {
+            "h": 318,
+            "s": 64,
+            "l": 58
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#2DC516",
+          "rgb": {
+            "r": 45,
+            "g": 197,
+            "b": 22
+          },
+          "hsl": {
+            "h": 112,
+            "s": 80,
+            "l": 43
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-41",
+      "name": "Cocoa / Mist",
+      "nameFa": "کاکائو / مه",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F5F3",
+          "rgb": {
+            "r": 247,
+            "g": 245,
+            "b": 243
+          },
+          "hsl": {
+            "h": 33,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EAE5DC",
+          "rgb": {
+            "r": 234,
+            "g": 229,
+            "b": 220
+          },
+          "hsl": {
+            "h": 39,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#BC7838",
+          "rgb": {
+            "r": 188,
+            "g": 120,
+            "b": 56
+          },
+          "hsl": {
+            "h": 29,
+            "s": 54,
+            "l": 48
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#B9CD60",
+          "rgb": {
+            "r": 185,
+            "g": 205,
+            "b": 96
+          },
+          "hsl": {
+            "h": 71,
+            "s": 52,
+            "l": 59
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#1F73C1",
+          "rgb": {
+            "r": 31,
+            "g": 115,
+            "b": 193
+          },
+          "hsl": {
+            "h": 209,
+            "s": 72,
+            "l": 44
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-42",
+      "name": "Cocoa / Ink",
+      "nameFa": "کاکائو / جوهر",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F4F3",
+          "rgb": {
+            "r": 247,
+            "g": 244,
+            "b": 243
+          },
+          "hsl": {
+            "h": 22,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EAE2DC",
+          "rgb": {
+            "r": 234,
+            "g": 226,
+            "b": 220
+          },
+          "hsl": {
+            "h": 28,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#A54D27",
+          "rgb": {
+            "r": 165,
+            "g": 77,
+            "b": 39
+          },
+          "hsl": {
+            "h": 18,
+            "s": 62,
+            "l": 40
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#C6CD4C",
+          "rgb": {
+            "r": 198,
+            "g": 205,
+            "b": 76
+          },
+          "hsl": {
+            "h": 63,
+            "s": 56,
+            "l": 55
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#1B73B1",
+          "rgb": {
+            "r": 27,
+            "g": 115,
+            "b": 177
+          },
+          "hsl": {
+            "h": 205,
+            "s": 74,
+            "l": 40
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-43",
+      "name": "Cocoa / Pulse",
+      "nameFa": "کاکائو / ضربان",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F6F3",
+          "rgb": {
+            "r": 247,
+            "g": 246,
+            "b": 243
+          },
+          "hsl": {
+            "h": 46,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EAE8DC",
+          "rgb": {
+            "r": 234,
+            "g": 232,
+            "b": 220
+          },
+          "hsl": {
+            "h": 52,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#DEAD3B",
+          "rgb": {
+            "r": 222,
+            "g": 173,
+            "b": 59
+          },
+          "hsl": {
+            "h": 42,
+            "s": 71,
+            "l": 55
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#9ED864",
+          "rgb": {
+            "r": 158,
+            "g": 216,
+            "b": 100
+          },
+          "hsl": {
+            "h": 90,
+            "s": 60,
+            "l": 62
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#1C28D4",
+          "rgb": {
+            "r": 28,
+            "g": 40,
+            "b": 212
+          },
+          "hsl": {
+            "h": 236,
+            "s": 77,
+            "l": 47
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-44",
+      "name": "Cocoa / Soft Cut",
+      "nameFa": "کاکائو / برش نرم",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F6F3",
+          "rgb": {
+            "r": 247,
+            "g": 246,
+            "b": 243
+          },
+          "hsl": {
+            "h": 57,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EAEADC",
+          "rgb": {
+            "r": 234,
+            "g": 234,
+            "b": 220
+          },
+          "hsl": {
+            "h": 63,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#C8BB5B",
+          "rgb": {
+            "r": 200,
+            "g": 187,
+            "b": 91
+          },
+          "hsl": {
+            "h": 53,
+            "s": 50,
+            "l": 57
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#8BD071",
+          "rgb": {
+            "r": 139,
+            "g": 208,
+            "b": 113
+          },
+          "hsl": {
+            "h": 104,
+            "s": 50,
+            "l": 63
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#4D25D0",
+          "rgb": {
+            "r": 77,
+            "g": 37,
+            "b": 208
+          },
+          "hsl": {
+            "h": 254,
+            "s": 70,
+            "l": 48
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-45",
+      "name": "Cocoa / Contrast",
+      "nameFa": "کاکائو / کنتراست",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F7F4F3",
+          "rgb": {
+            "r": 247,
+            "g": 244,
+            "b": 243
+          },
+          "hsl": {
+            "h": 11,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#EAE0DC",
+          "rgb": {
+            "r": 234,
+            "g": 224,
+            "b": 220
+          },
+          "hsl": {
+            "h": 17,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#D22E19",
+          "rgb": {
+            "r": 210,
+            "g": 46,
+            "b": 25
+          },
+          "hsl": {
+            "h": 7,
+            "s": 79,
+            "l": 46
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#D6D84F",
+          "rgb": {
+            "r": 214,
+            "g": 216,
+            "b": 79
+          },
+          "hsl": {
+            "h": 61,
+            "s": 64,
+            "l": 58
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#165FC5",
+          "rgb": {
+            "r": 22,
+            "g": 95,
+            "b": 197
+          },
+          "hsl": {
+            "h": 215,
+            "s": 80,
+            "l": 43
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-46",
+      "name": "Sea Glass / Mist",
+      "nameFa": "شیشه دریایی / مه",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F3F7F6",
+          "rgb": {
+            "r": 243,
+            "g": 247,
+            "b": 246
+          },
+          "hsl": {
+            "h": 173,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DCEAEA",
+          "rgb": {
+            "r": 220,
+            "g": 234,
+            "b": 234
+          },
+          "hsl": {
+            "h": 179,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#38BCA4",
+          "rgb": {
+            "r": 56,
+            "g": 188,
+            "b": 164
+          },
+          "hsl": {
+            "h": 169,
+            "s": 54,
+            "l": 48
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#6095CD",
+          "rgb": {
+            "r": 96,
+            "g": 149,
+            "b": 205
+          },
+          "hsl": {
+            "h": 211,
+            "s": 52,
+            "l": 59
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#C11F3D",
+          "rgb": {
+            "r": 193,
+            "g": 31,
+            "b": 61
+          },
+          "hsl": {
+            "h": 349,
+            "s": 72,
+            "l": 44
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-47",
+      "name": "Sea Glass / Ink",
+      "nameFa": "شیشه دریایی / جوهر",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F3F7F6",
+          "rgb": {
+            "r": 243,
+            "g": 247,
+            "b": 246
+          },
+          "hsl": {
+            "h": 162,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DCEAE7",
+          "rgb": {
+            "r": 220,
+            "g": 234,
+            "b": 231
+          },
+          "hsl": {
+            "h": 168,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#27A577",
+          "rgb": {
+            "r": 39,
+            "g": 165,
+            "b": 119
+          },
+          "hsl": {
+            "h": 158,
+            "s": 62,
+            "l": 40
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#4C9BCD",
+          "rgb": {
+            "r": 76,
+            "g": 155,
+            "b": 205
+          },
+          "hsl": {
+            "h": 203,
+            "s": 56,
+            "l": 55
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#B11B40",
+          "rgb": {
+            "r": 177,
+            "g": 27,
+            "b": 64
+          },
+          "hsl": {
+            "h": 345,
+            "s": 74,
+            "l": 40
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-48",
+      "name": "Sea Glass / Pulse",
+      "nameFa": "شیشه دریایی / ضربان",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F3F6F7",
+          "rgb": {
+            "r": 243,
+            "g": 246,
+            "b": 247
+          },
+          "hsl": {
+            "h": 186,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DCE7EA",
+          "rgb": {
+            "r": 220,
+            "g": 231,
+            "b": 234
+          },
+          "hsl": {
+            "h": 192,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#3BD8DE",
+          "rgb": {
+            "r": 59,
+            "g": 216,
+            "b": 222
+          },
+          "hsl": {
+            "h": 182,
+            "s": 71,
+            "l": 55
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#6477D8",
+          "rgb": {
+            "r": 100,
+            "g": 119,
+            "b": 216
+          },
+          "hsl": {
+            "h": 230,
+            "s": 60,
+            "l": 62
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#D44D1C",
+          "rgb": {
+            "r": 212,
+            "g": 77,
+            "b": 28
+          },
+          "hsl": {
+            "h": 16,
+            "s": 77,
+            "l": 47
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-49",
+      "name": "Sea Glass / Soft Cut",
+      "nameFa": "شیشه دریایی / برش نرم",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F3F6F7",
+          "rgb": {
+            "r": 243,
+            "g": 246,
+            "b": 247
+          },
+          "hsl": {
+            "h": 197,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DCE5EA",
+          "rgb": {
+            "r": 220,
+            "g": 229,
+            "b": 234
+          },
+          "hsl": {
+            "h": 203,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#5BB0C8",
+          "rgb": {
+            "r": 91,
+            "g": 176,
+            "b": 200
+          },
+          "hsl": {
+            "h": 193,
+            "s": 50,
+            "l": 57
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#7871D0",
+          "rgb": {
+            "r": 120,
+            "g": 113,
+            "b": 208
+          },
+          "hsl": {
+            "h": 244,
+            "s": 50,
+            "l": 63
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#D08625",
+          "rgb": {
+            "r": 208,
+            "g": 134,
+            "b": 37
+          },
+          "hsl": {
+            "h": 34,
+            "s": 70,
+            "l": 48
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-50",
+      "name": "Sea Glass / Contrast",
+      "nameFa": "شیشه دریایی / کنتراست",
+      "colors": [
+        {
+          "role": "Paper",
+          "roleFa": "کاغذ",
+          "hex": "#F3F7F5",
+          "rgb": {
+            "r": 243,
+            "g": 247,
+            "b": 245
+          },
+          "hsl": {
+            "h": 151,
+            "s": 18,
+            "l": 96
+          }
+        },
+        {
+          "role": "Surface",
+          "roleFa": "سطح",
+          "hex": "#DCEAE5",
+          "rgb": {
+            "r": 220,
+            "g": 234,
+            "b": 229
+          },
+          "hsl": {
+            "h": 157,
+            "s": 26,
+            "l": 89
+          }
+        },
+        {
+          "role": "Primary",
+          "roleFa": "اصلی",
+          "hex": "#19D26C",
+          "rgb": {
+            "r": 25,
+            "g": 210,
+            "b": 108
+          },
+          "hsl": {
+            "h": 147,
+            "s": 79,
+            "l": 46
+          }
+        },
+        {
+          "role": "Supporting",
+          "roleFa": "پشتیبان",
+          "hex": "#4FA8D8",
+          "rgb": {
+            "r": 79,
+            "g": 168,
+            "b": 216
+          },
+          "hsl": {
+            "h": 201,
+            "s": 64,
+            "l": 58
+          }
+        },
+        {
+          "role": "Accent",
+          "roleFa": "تأکیدی",
+          "hex": "#C51625",
+          "rgb": {
+            "r": 197,
+            "g": 22,
+            "b": 37
+          },
+          "hsl": {
+            "h": 355,
+            "s": 80,
+            "l": 43
+          }
+        }
+      ]
+    }
+  ]
+}
