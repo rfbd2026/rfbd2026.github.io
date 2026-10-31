@@ -1,12 +1,16 @@
 "use client";
 
 import { FormEvent, useState } from "react";
+import { useSearchParams } from "next/navigation";
 import { useTranslations } from "next-intl";
 import type { Locale } from "@/lib/content/projects";
 
 const services = ["identity", "packaging", "digital", "other"] as const;
 
 export function ContactForm({ locale, initialService = "" }: { locale: Locale; initialService?: string }) {
+  const searchParams = useSearchParams();
+  const queryService = searchParams?.get("service") || "";
+  const selectedService = queryService || initialService;
   const t = useTranslations("contact");
   const [status, setStatus] = useState<"idle" | "loading" | "sent" | "error">("idle");
   const [message, setMessage] = useState("");
@@ -41,7 +45,7 @@ export function ContactForm({ locale, initialService = "" }: { locale: Locale; i
         <label className="field-wrap"><span>{t("name")} *</span><input className="field" name="name" required minLength={2} maxLength={120} autoComplete="name" /></label>
         <label className="field-wrap"><span>{t("email")} *</span><input className="field" name="email" type="email" required maxLength={254} autoComplete="email" /></label>
         <label className="field-wrap"><span>{t("company")}</span><input className="field" name="company" maxLength={180} autoComplete="organization" /></label>
-        <label className="field-wrap"><span>{t("service")} *</span><select className="field" name="service" required defaultValue={services.includes(initialService as typeof services[number]) ? initialService : "other"}>{services.map((service) => <option key={service} value={service}>{t(service)}</option>)}</select></label>
+        <label className="field-wrap"><span>{t("service")} *</span><select className="field" name="service" required defaultValue={services.includes(selectedService as typeof services[number]) ? selectedService : "other"}>{services.map((service) => <option key={service} value={service}>{t(service)}</option>)}</select></label>
       </div>
       <label className="field-wrap mt-5"><span>{t("message")} *</span><textarea className="field min-h-36 resize-y" name="message" required minLength={20} maxLength={5000} rows={6} /></label>
       <label className="consent-row mt-5"><input type="checkbox" name="consent" value="true" required /><span>{locale === "fa" ? "با ثبت این درخواست، اجازه می‌دهم اطلاعاتم برای پاسخ دستی به همین درخواست نگهداری شود. ایمیل خودکار ارسال نمی‌شود." : "I consent to storing this information for a manual response to this inquiry. No automatic email will be sent."}</span></label>
