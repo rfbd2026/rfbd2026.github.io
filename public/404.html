@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <title>صفحه مورد نظر یافت نشد</title>
+  <script>
+    var path = window.location.pathname;
+    if (!path.startsWith('/fa') && !path.startsWith('/en')) {
+      window.location.replace('/fa' + (path.startsWith('/') ? path : '/' + path));
+    }
+  </script>
+</head>
+<body style="font-family: sans-serif; text-align: center; padding: 50px;">
+  <h1>صفحه مورد نظر یافت نشد</h1>
+  <p><a href="/fa/">بازگشت به صفحه اصلی</a></p>
+</body>
+</html>
