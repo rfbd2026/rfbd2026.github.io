@@ -924,3 +924,61 @@ html[dir="rtl"] .step1-menu__page-link::after{transform-origin:right center}
   .step1-project:hover .step1-project__art,.step1-project:focus-within .step1-project__art,.step1-community__card:hover{filter:none;box-shadow:none}
   .step1-contact__button:hover{transform:none}
 }
+
+
+/* Persistent top/rail language switch */
+.site-rail__lang {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: .32rem .55rem;
+  border-radius: 9999px;
+  border: 1px solid var(--rule);
+  background: var(--paper);
+  color: var(--ink);
+  text-decoration: none;
+  line-height: 1;
+  transition: all .2s ease;
+  cursor: pointer;
+}
+
+.site-rail__lang:hover {
+  border-color: var(--cobalt);
+  background: #fff;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgb(0 0 0 / 6%);
+}
+
+.site-rail__lang-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: .25rem;
+  font-family: "Sora Variable", "Inter Variable", "Vazirmatn Variable", sans-serif;
+  font-size: .68rem;
+  font-weight: 650;
+  line-height: 1;
+}
+
+.site-rail__lang-opt {
+  color: var(--muted);
+  transition: color .18s ease;
+}
+
+.site-rail__lang-opt.is-active {
+  color: var(--cobalt);
+  font-weight: 850;
+}
+
+.site-rail__lang-slash {
+  color: var(--rule);
+  font-size: .62rem;
+}
+
+@media(max-width: 640px) {
+  .site-rail__lang {
+    padding: .28rem .45rem;
+  }
+  .site-rail__lang-pill {
+    font-size: .62rem;
+  }
+}

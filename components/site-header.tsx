@@ -56,6 +56,21 @@ export function SiteHeader() {
         <span>A</span><i>/</i><span>B</span>
       </Link>
       <span className="site-rail__wordmark" aria-hidden="true">AREF BAHADORI</span>
+      <Link
+        href={pathname as never}
+        locale={nextLocale}
+        className="site-rail__lang"
+        lang={nextLocale}
+        aria-label={`تغییر زبان به ${switchLabel} / Switch to ${switchLabel}`}
+        title={`تغییر زبان به ${switchLabel} / Switch to ${switchLabel}`}
+        onClick={() => setOpen(false)}
+      >
+        <span className="site-rail__lang-pill">
+          <span className={`site-rail__lang-opt ${locale === "fa" ? "is-active" : ""}`}>فا</span>
+          <span className="site-rail__lang-slash">/</span>
+          <span className={`site-rail__lang-opt ${locale === "en" ? "is-active" : ""}`}>EN</span>
+        </span>
+      </Link>
       <button
         type="button"
         className="site-rail__toggle"
