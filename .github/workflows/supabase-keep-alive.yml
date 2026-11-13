@@ -1,0 +1,33 @@
+name: Supabase Keep-Alive Ping
+
+on:
+  schedule:
+    # Runs daily at 06:00 UTC (09:30 AM Iran Time)
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  keep-alive:
+    name: Ping Supabase Database
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send API Request to Supabase
+        run: |
+          echo "Sending keep-alive ping to Supabase..."
+          HTTP_STATUS=$(curl -s -o response.json -w "%{http_code}" \
+            -H "apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVvdHV1a2xkc3lqZXJycXBrcHNsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI4NjE0MzAsImV4cCI6MjEwODQzNzQzMH0.w1mWnmHH1wr-SPF6g7uwBJPwKurXne5jR_9Rq0evVyk" \
+            -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVvdHV1a2xkc3lqZXJycXBrcHNsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI4NjE0MzAsImV4cCI6MjEwODQzNzQzMH0.w1mWnmHH1wr-SPF6g7uwBJPwKurXne5jR_9Rq0evVyk" \
+            "https://uotuukldsyjerrqpkpsl.supabase.co/rest/v1/tf_settings?select=*")
+
+          echo "HTTP Status Code: $HTTP_STATUS"
+          echo "Response Body:"
+          cat response.json
+          echo ""
+
+          if [ "$HTTP_STATUS" -ge 200 ] && [ "$HTTP_STATUS" -lt 300 ]; then
+            echo "✓ Supabase ping succeeded! Database is active and healthy."
+            exit 0
+          else
+            echo "✗ Supabase ping failed with status $HTTP_STATUS"
+            exit 1
+          fi
